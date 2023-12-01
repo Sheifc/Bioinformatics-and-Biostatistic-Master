@@ -1,7 +1,10 @@
 <div align="justify">
+
 # Bioinformatics-and-Biostatistic-Master
 
-Description of the Master's Programme
+https://www.uoc.edu/es/estudios/masters/master-universitario-bioinformatica-bioestadistica
+
+## **Description of the Master's Programme**
 
 The main aim of the Master's in Bioinformatics and Biostatistics from the UOC and UB is to train specialists in the fields of bioinformatics and biostatistics, meeting the growing demand for these professionals from companies, institutions, and universities.
 
