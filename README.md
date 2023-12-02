@@ -1,6 +1,6 @@
 <div align="justify">
 
-# Bioinformatics-and-Biostatistic-Master
+# Bioinformatics-and-Biostatistics-Master
 
 https://www.uoc.edu/es/estudios/masters/master-universitario-bioinformatica-bioestadistica
 
